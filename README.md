@@ -1,5 +1,17 @@
 # eCommerce-MERN-
-# Following commands you will need to run in the front-end directory
+# Following commands you will need to run in the front-end and back-end directories
+
+
+##backend:
+
+        npm init -y
+        
+        npm i express socket.io bcrypt cloudinary  dataenv stripe validator cors
+        
+        npm i nodemon
+        
+        npm run dev
+
 
 ## frontend
 
